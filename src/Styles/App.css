@@ -1,0 +1,30 @@
+.container {
+    width: 630px;
+}
+
+.lead {
+    margin: auto;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-weight: 700;
+    height: 55px;
+    width: 150px;
+    padding-top: 12px;
+    margin-bottom: 230px;
+}
+
+
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 250px;
+    margin-bottom: 40px;
+}
+
